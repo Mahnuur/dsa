@@ -1,1 +1,1 @@
-# dsa-array-operations
+# dsa structures
